@@ -1,2 +1,2 @@
-# Algoritmo de recomendación terapéutica aplicado en pacientes hipertensos del hospital Universitario Infanta Leonor.
+# Sistema de recomendación terapéutica aplicado en pacientes hipertensos del Hospital universitario Infanta Leonor.
 
