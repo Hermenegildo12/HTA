@@ -16,4 +16,7 @@ Obteniendose pacientes muy parecidos cuando se calculaba la distancia entre ello
 Ejemplo modelo Euclidio:
 
 
+<img src="Ejemplo.png" />
+
+
 Aviso: No se adjunta las base de datos, por motivos de confidencialidad.
